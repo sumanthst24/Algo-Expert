@@ -6,4 +6,6 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/sumanthst24/algo-expert)
 
+![GitHub contributors](https://img.shields.io/github/contributors/sumanthst24/algo-expert)
+
 An Education app which provides user different algorithms.
