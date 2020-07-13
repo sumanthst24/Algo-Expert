@@ -11,5 +11,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumanthst24/algo-expert)
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/sumanthst24/algo-expert)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/sumanthst24/algo-expert)
 
 An Education app which provides user different algorithms.
